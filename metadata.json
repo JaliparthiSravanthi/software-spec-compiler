@@ -1,0 +1,8 @@
+{
+  "name": "Software Spec Compiler",
+  "description": "Multi-stage compiler engine rendering natural language to strict, validated, and executable app schemas in a live preview sandbox with interactive terminals and diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
